@@ -33,6 +33,12 @@
 	Create a custom annotation that should allow serializing a Java object to a JSON file. The annotation must receive 
 	the directory where the resulting file will be placed.
 
+**Exercise 01 Execution**
+
+This exercise can be compiled by terminal instructions or builded by idle. 
+In the first case, the "result" directory wich contains person.json answer will appear in the exercise directory,
+if the compilation and execution is done by idle, the directory will appear in  s1.7-Annotations directory.
+
 ### **Level 03**
 
 **Exercise 01**
@@ -40,11 +46,6 @@
     Add the capability for the annotation created in the previous level to be retained by the Virtual Machine at 
 	runtime. Demonstrate that reading the annotation is executed using Java Reflection.
 
-**Exercise 01 Execution**
-	
-	This exercise can be compiled by terminal instructions or builded by idle. 
-	In the first case, the "result" directory wich contains person.json answer will appear in the exercise directory,
-	if the compilation and execution is done by idle, the directory will appear in  s1.7-Annotations directory.
 	
 ## 💻 **Used technologies**
 
